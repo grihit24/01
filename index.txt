@@ -1,0 +1,38 @@
+<html>
+<head><title>About Grihit</title></head>
+<center><body>
+<font size="40" color="black">
+<h1>About Grihit</h1>
+Hello everyone this is about me I'm G.Grihit Gaganeshwaran I'm 12 years old
+and I'm going to tell about me 
+<br>
+I'm studing in 
+<br>
+Pm shri kendriya vidhyalaya air force station
+<br>
+<img src=About Grihit\school photo.jpg" heigth=300px width=350px>
+<br>
+my favourite colour is
+<br>
+Orange 
+<br>
+<img src="About Grihit\images\orange.png" heigth=300px width=350px>
+<br>
+and my favourite fictional character is 
+<br>
+Shinchan
+<br>
+<img src=About Grihit\images\shinchan.jpeg" heigth=300px width=350px>
+<br>
+my favourite foods are
+<br>
+Chicken biryani
+<br>
+<img src=About Grihit\images\biryani image.jpeg" heigth=200px width=250px>
+<br>
+<br>
+<br>
+<center>Don't forget to check other websites</center>
+<p><center><a href="https://htmlsmadebygrihit.netlify.app/">click here</a></center></p>
+</body>
+</html>
