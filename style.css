@@ -1,0 +1,75 @@
+h1{
+    text-align: center;
+    font-size:100px;
+    color: #fd8e34;
+}
+#p1{
+    text-align:center;
+    font-size: 60px;
+    font-family:cursive;
+}
+#p2{
+    text-align:initial;
+    font-size:60px;
+    font-family: cursive;
+    border: 5px solid;
+    height:600px;
+    width:800px;
+    border-color:f0a835;
+    background-color:f0a835;
+    animation:myslide;
+    animation-duration:2s;
+}
+@keyframes myslide{
+    from{margin-left:100%;}
+    to{margin-left:0%}
+}
+@keyframes slidemy{
+    from{margin-left:0%;}
+    to{margin-left:54%;}
+}
+#p3{
+    text-align:right;
+    font-size:60px;
+    font-family: cursive;
+    margin-left: 720px;
+    border: 5px solid;
+    height: 500px;
+    width: 600px;
+    border-color:f0a835;
+    background-color:f0a835 ;
+    animation:slidemy;
+    animation-duration:4s;
+    animation-delay:1s;
+}
+#p4{
+    text-align:initial;
+    font-size:60px;
+    font-family: cursive;
+    border: 5px solid;
+    height: 650px;
+    width: 800px;
+    border-color:f0a835;
+    background-color: f0a835;
+    animation:myslide;
+    animation-duration:4s;
+    animation-delay:2s;
+}
+#p5{
+    text-align:end;
+    font-size:60px;
+    font-family: cursive;
+    margin-left: 670px;
+    border: 5px solid;
+    height: 550px;
+    width: 650px;
+    border-color:f0a835;
+    background-color:f0a835;
+    animation:slidemy;
+    animation-duration:4s;
+    animation-delay:3s;
+}
+#p6{
+    text-align:center;
+    font-size:65;
+}
